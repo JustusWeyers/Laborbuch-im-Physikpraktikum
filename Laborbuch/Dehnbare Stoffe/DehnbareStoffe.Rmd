@@ -3,9 +3,9 @@ title: "Dehnbare Stoffe"
 author: "Justus Weyers & Milena Mensching, Team 4"
 date: "`r Sys.Date()`"
 output:
-  pdf_document: default
   html_document:
     df_print: paged
+  pdf_document: default
 ---
 # Versuch 1
 
